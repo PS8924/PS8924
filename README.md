@@ -5,7 +5,6 @@ Software Engineer
 -----------------
 
 * 🌍  I'm based in Boston
-* ✉️  You can contact me at [shah.pankti@northeastern.edu](mailto:shah.pankti@northeastern.edu)
 * 🤝  I'm open to collaborating on Projects
 
 ### Skills
