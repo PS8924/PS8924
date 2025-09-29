@@ -21,10 +21,6 @@ Software Engineer
 
 ### Badges
 
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/PS8924"><img src="https://github-readme-stats.vercel.app/api?username=PS8924&show_icons=true&hide=stars,commits,prs,issues,contribs&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="PS8924's GitHub stats" /></a>
-
 <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/PS8924/Medication_ordering_System" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=PS8924&repo=Medication_ordering_System&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/PS8924/CSYE6200DayCareProject" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=PS8924&repo=CSYE6200DayCareProject&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
